@@ -15,10 +15,13 @@ Open ImageJ, click
 
 Plugins > Install Plugin...
 
-and choose 10092015_release>moco_.jar.
+and choose 103-18-2016_release>moco_.jar.
 
 
-3. Restart ImageJ, and and the moco plugin should show up under Plugins.
+3. Copy jar files in 03-18-2016_release>jars folder to Fiji.app>jars. 
+
+
+4. Restart ImageJ, and and the moco plugin should show up under Plugins.
 
 
 ---------------------------------
